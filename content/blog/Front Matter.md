@@ -4,4 +4,6 @@ date= 2025-04-27
 tags= ["post"]
 draft= false
 +++
-Test test test.![[04 Pyramid Hampton Headshots-034.jpg]]
+Test test test.
+
+![[04 Pyramid Hampton Headshots-034.jpg]]
