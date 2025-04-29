@@ -1,1 +1,0 @@
-Encourage the client to have a script written and rehearsed beforehand. It wastes our time for them to ad-lib one on the fly, and makes for a painful editing process. 
