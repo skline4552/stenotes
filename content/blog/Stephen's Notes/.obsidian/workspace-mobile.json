@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "2ca41017a6f5ef85",
+    "type": "split",
+    "children": [
+      {
+        "id": "624e3a3155de110e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524dcd258f0ab16e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/00001 - Belvadi - Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00001 - Belvadi - Zettelkasten"
+            }
+          },
+          {
+            "id": "a610732c8bafaa2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/00001 - Belvadi - Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00001 - Belvadi - Zettelkasten"
+            }
+          },
+          {
+            "id": "9d7124a0ee717396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bibliography/Belvadi - How to build a zettelkasten system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Belvadi - How to build a zettelkasten system"
+            }
+          },
+          {
+            "id": "931923ffa1bda55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting/00003 - AI Prompt Writing Fundamentals.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00003 - AI Prompt Writing Fundamentals"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec56098d2f0019f2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c8f035071d100f7f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "52091eb5f9786719",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "78238aced2972eb0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "2e0ee3a5c0b0e232",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "532f0e59b7a6421e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a6e7549954fbdf83",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Fleeting/00003 - AI Prompt Writing Fundamentals.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3052d606d99243be",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Fleeting/00003 - AI Prompt Writing Fundamentals.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4f0bec491a835515",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Fleeting/00003 - AI Prompt Writing Fundamentals.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "931923ffa1bda55f",
+  "lastOpenFiles": [
+    "Fleeting/00002 - Self - Note for Next PHV Shoot.md",
+    "Fleeting/00003 - AI Prompt Writing Fundamentals.md",
+    "Bibliography/Yan - Prompting Fundamentals and How to Apply them Effectively.md",
+    "Bibliography/Belvadi - How to build a zettelkasten system.md",
+    "Fleeting/00001 - Belvadi - Zettelkasten.md",
+    "Bibliography",
+    "Permanent",
+    "Fleeting"
+  ]
+}
