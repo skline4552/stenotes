@@ -1,10 +1,7 @@
-baseURL: "https://stenotes.com"
-languageCode: "en-us"
-title: "Stephen's Notes"
-theme: "paper"
-ignoreErrors = "error-remote-getjson"
-[pagination]
-  pagerSize = 3
+baseURL: https://stenotes.com
+languageCode: en-us
+title: Stephen's Notes
+theme: ["paper"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -20,5 +17,13 @@ params:
   defaultTheme: auto
   dateFormat: "January 2, 2006"
   color: gray
-  instagram: "skline4552"
-  linkedIn: "stephentkline"
+  instagram: 'skline4552'
+  linkedIn: 'stephentkline'
+
+[menu]
+
+  [[menu.main]]
+    identifier: "about"
+    name: "About"
+    url: "/about/"
+    weight: 10
