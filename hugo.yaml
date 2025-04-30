@@ -1,7 +1,7 @@
 baseURL: https://stenotes.com
 languageCode: en-us
 title: Stephen's Notes
-theme: ["PaperMod"]
+theme: ["paper"]
 
 enableRobotsTXT: true
 buildDrafts: false
