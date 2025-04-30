@@ -1,0 +1,18 @@
+baseURL: https://stenotes.com
+languageCode: en-us
+title: Stephen's Notes
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify: 
+  disableXML: true
+  minifyOutput: true
+
+params:
+  description: "A collection of travel posts, random thoughts, maybe even the occasional product review."
+  defaultTheme: auto
+  dateFormat: "January 2, 2006"
