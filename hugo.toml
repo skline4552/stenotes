@@ -3,7 +3,7 @@
 baseURL = "https://stenotes.com"
 
 # The name of this wonderful theme ;-).
-theme = 'paper'
+theme = 'paperMod'
 
 # Basic metadata configuration for your blog.
 title = "Stephen's Notes"
