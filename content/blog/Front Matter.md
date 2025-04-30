@@ -5,5 +5,4 @@ tags= ["post"]
 draft= false
 +++
 Test test test.
-
-![[04 Pyramid Hampton Headshots-034.jpg]]
+![](assets/04%20Pyramid%20Hampton%20Headshots-034.jpg)
