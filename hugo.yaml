@@ -16,4 +16,4 @@ params:
   description: "A collection of travel posts, random thoughts, maybe even the occasional product review."
   defaultTheme: auto
   dateFormat: "January 2, 2006"
-  color: light
+  color: gray
