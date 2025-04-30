@@ -5,4 +5,4 @@ tags= ["post"]
 draft= false
 +++
 Test test test.
-![](attachments/images/watts.jpg)
+![Picture of Watts](attachments/images/watts.jpg)
