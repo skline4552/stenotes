@@ -19,11 +19,3 @@ params:
   color: gray
   instagram: 'skline4552'
   linkedIn: 'stephentkline'
-
-[menu]
-
-  [[menu.main]]
-    identifier: "about"
-    name: "About"
-    url: "/about/"
-    weight: 10
