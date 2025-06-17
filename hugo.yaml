@@ -18,4 +18,7 @@ params:
   dateFormat: "January 2, 2006"
   color: gray
   instagram: 'skline4552'
-  ##linkedIn: 'stephentkline'
+  # linkedIn: 'stephentkline'
+
+monoDarkIcon: true
+
