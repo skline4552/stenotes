@@ -6,7 +6,7 @@ draft= false
 +++
 
 ## It's almost go time
-It's a Lise Kline tradition to have a [travel blog](legskline.com) that captures the memories of a trip that might otherwise get lost to the nether. I wanted to carry that tradition on with the travels that Erika and I undertake. Welcome to Stephen's Notes. 
+It's a Lise Kline tradition to have a [travel blog](https://www.legskline.com/) that captures the memories of a trip that might otherwise get lost to the nether. I wanted to carry that tradition on with the travels that Erika and I undertake. Welcome to Stephen's Notes. 
 
 I can't promise that I'll deliver as refined of product as my mother -- in fact I'm quite certian that many blog entries will simply be a list of the resturaunts we went to, what we ate, and maybe the touristy stuff we saw. Hopefully with some quality pictures of Erika to accompany the short sentences. But the people still love that kind of stuff, and who am I to keep the people from what they want? 
 
