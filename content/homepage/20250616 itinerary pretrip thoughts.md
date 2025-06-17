@@ -1,5 +1,5 @@
 +++
-title= "E&Ste Do Europe 2025 - Itinerary/Pre-Trip Thoughts"
+title= "E&Ste Do Europe 2025 - Itinerary and Pre-Trip Thoughts"
 date= 2025-06-16
 tags= ["post"]
 draft= true
