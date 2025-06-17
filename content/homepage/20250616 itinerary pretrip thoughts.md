@@ -1,6 +1,6 @@
 +++
 title = "E&Ste Do Europe 2025 - Itinerary and Pre-Trip Thoughts"
-date = 2025-06-16
+date = 2025-06-26
 tags = ["post"]
 draft = true
 +++
