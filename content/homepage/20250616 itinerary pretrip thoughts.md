@@ -5,7 +5,7 @@ tags = ["post"]
 draft = false
 +++
 
-![Our trip mashed into one picture.](/parencecaniedomt.png.jpg)
+![Our trip mashed into one picture.](/parencecaniedomt.png)
 
 ## It's almost go time
 It's a Lise Kline tradition to have a [travel blog](https://www.legskline.com/) that captures the memories of a trip that might otherwise get lost to the nether. I wanted to carry that tradition on with the travels that Erika and I undertake. Welcome to Stephen's Notes. 
