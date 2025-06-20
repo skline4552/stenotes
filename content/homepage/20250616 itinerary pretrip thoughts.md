@@ -5,7 +5,10 @@ tags = ["post"]
 draft = false
 +++
 
-{{< figure src="/parencecaniedomt.png" caption="Yeah, I used AI to mash together Paris, Florence, the Tuscan countryside, and the Piedmont." >}}
+<figure>
+  <img src="/parencecaniedomt.png" alt="AI generated mashup of Paris, Florence, the Tuscan countryside, and the Piedmont">
+  <figcaption>Yeah, I used AI to mash together Paris, Florence, the Tuscan countryside, and the Piedmont.</figcaption>
+</figure>
 
 ## It's almost go time
 It's a Lise Kline tradition to have a [travel blog](https://www.legskline.com/) that captures the memories of a trip that might otherwise get lost to the nether. I wanted to carry that tradition on with the travels that Erika and I undertake. Welcome to Stephen's Notes. 
