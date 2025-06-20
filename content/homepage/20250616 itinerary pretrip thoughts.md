@@ -5,9 +5,7 @@ tags = ["post"]
 draft = false
 +++
 
-![Our trip mashed into one picture.](/parencecaniedomt.png)
-{{< figure src="/parencecaniedomt.png" caption="Our trip mashed into one picture. Hopefully one of the last times you'll see an AI-generated photo on this blog." >}}
-
+{{< figure src="/parencecaniedomt.png" caption="Yeah, I used AI to mash together Paris, Florence, the Tuscan countryside, and the Piedmont." >}}
 
 ## It's almost go time
 It's a Lise Kline tradition to have a [travel blog](https://www.legskline.com/) that captures the memories of a trip that might otherwise get lost to the nether. I wanted to carry that tradition on with the travels that Erika and I undertake. Welcome to Stephen's Notes. 
