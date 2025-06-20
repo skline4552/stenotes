@@ -9,7 +9,6 @@ draft = false
     figure src = "/parencecaniedomt.png" 
     caption = "Yeah, I used AI to mash together Paris, Florence, the Tuscan countryside, and the Piedmont." 
     alt = "AI mash-up of Paris, Florence, the Tuscan countryside, and the hills of the Piedmont"
-    title = "I call it Parencecanidemont"
 >}}
 
 ## It's almost go time
