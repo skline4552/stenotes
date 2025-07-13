@@ -1,5 +1,5 @@
 +++
-title = "Eurotrip 10: Travel to Sante Maria Maggiore"
+title = "Eurotrip 10: Travel to Santa Maria Maggiore"
 date = 2025-07-13
 tags = ["post"]
 draft = false
