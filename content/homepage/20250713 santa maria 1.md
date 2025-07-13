@@ -34,10 +34,6 @@ There we met with Luca, Erika's dad's second cousin, who is hosting us along wit
     figure src = "/20250713-STKL4732.jpg" 
 >}}
 
-{{< 
-    figure src = "/20250713-STKL4732.jpg" 
->}}
-
 We then drove into the Valle Vigezzo to Santa Maria Maggiore, where Elena lives. The last time Elena and Erika were together was before Erika had even turned one, so it was beautiful to see them united. Elena invited us into her home for the perfect snack of coffee, beer, salami, and focaccia. Erika, Luca, and Elena shared memories of other family members' trips to visit Santa Maria Maggiore, including Steve's, which were especially fascinating to hear about. 
 
 {{< 
