@@ -100,4 +100,8 @@ Then back down to Toceno, where we saw a building containing a xylotheque that L
 
 We then drove up to Albogno, the highest town in the valley, to take in the spectacular views and to see some of the historic homes there too. 
 
-I feel like I'm forgetting 50% of the day, but consider that the highlights. I'm also just about crashed out at this point. Enjoying every minute, but running on fumes. 
+We had an hour and a half back at the AirBnb to catch out breath, and then back over to Elena's for dinner. 
+
+I'll be honest, and I'm ashamed to admit it, when Luca told me dinner would likely be "cold rice," I was hesitant. We had a starter of raw veggies (yes, I ate raw veggies) dipped in an olive oil/vinegar/salt mixture, that kicked off the health train. And then the cold rice, which is very adjacent to pasta salad, with raw peppers/onions, feta, and tuna all mixed together with a dressing of olive oil and white vinegar. It's exactly the fuel both of us needed before a big day of travel tomorrow. 
+
+I feel like I'm forgetting 50% of the day, but consider that the highlights. I'm also just about crashed out at this point. Enjoying every minute, but running on fumes. Tomorrow is going to be a marathon travel day, but the end holds our comfy bed. I'll be racing there. 
